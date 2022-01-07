@@ -32,7 +32,14 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="60" style="vertical-align:top; margin:4px">
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="php" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="php" height="40" style="vertical-align:top; margin:4px"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="react" height="60" style="vertical-align:top; box-shadow: 0px 1px 2px #bab0b0;
+    border-radius: 50%;
+    margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="react" height="60" style="vertical-align:top;box-shadow: 0px 1px 2px #bab0b0; border-radius: 50%;
+    margin: 10px;">
+ 
   
  
 </p>
+
