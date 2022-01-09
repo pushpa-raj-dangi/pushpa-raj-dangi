@@ -39,7 +39,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="react" height="60" style="vertical-align:top;box-shadow: 0px 1px 2px #bab0b0; border-radius: 50%;
     margin: 10px;">
  
-  
+  ### 📔Latest Blog Posts
+ <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
  
 </p>
 
