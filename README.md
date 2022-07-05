@@ -12,8 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-raj-dangi&theme=tokyonight)
 
 ## ✉️ Find me on:
-<img 
-height="200px"  src="https://camo.githubusercontent.com/61d647cf136e8b81720294531eedb797e4a1511fb2ad76796526865642ff76e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"> 
 
 <p align="left">
  <a href="https://www.pushpadangi.com.np" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a>
@@ -21,6 +19,10 @@ height="200px"  src="https://camo.githubusercontent.com/61d647cf136e8b8172029453
  <a href="mailto:dcpushparaj@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://twitter.com/dev_dcpushpa"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
+<img 
+height="200px"  src="https://camo.githubusercontent.com/61d647cf136e8b81720294531eedb797e4a1511fb2ad76796526865642ff76e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"> 
+
+
 
 <br />
 🧰 Languages and Tools:
