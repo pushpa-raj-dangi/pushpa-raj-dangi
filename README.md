@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as ** Angular Developer.**
+- 📝 I write articles on caveontech.com
 - 🌱 I’m currently learning Android Devlopment
 - 💬 Ask me about anything
 
