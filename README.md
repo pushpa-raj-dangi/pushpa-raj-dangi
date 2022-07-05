@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on upwork project -->
+- 🔭 I’m currently working as ** Angular Developer.**
 - 🌱 I’m currently learning Android Devlopment
 - 💬 Ask me about anything
 
