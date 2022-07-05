@@ -19,7 +19,7 @@ height="200px"  src="https://camo.githubusercontent.com/61d647cf136e8b8172029453
  <a href="https://www.pushpadangi.com.np" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/pushpa-raj-dangi/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:dcpushparaj@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/dev_dcpushpa"> <img src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://twitter.com/dev_dcpushpa"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
