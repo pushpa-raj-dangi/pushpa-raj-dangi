@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as ** Angular Developer.**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
-- 🌱 I’m currently learning Android Devlopment
+- 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about anything
 
 
