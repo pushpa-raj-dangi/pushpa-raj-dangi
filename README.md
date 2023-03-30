@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as ** Angular Developer.**
+- 🔭 I’m currently working as ** NextJs Developer.**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently Oracle Database
 - 💬 Ask me about anything
 
 
