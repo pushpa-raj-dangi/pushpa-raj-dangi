@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as ** NextJs Developer.**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
-- 🌱 I’m currently Oracle Database
+- 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
 
 
