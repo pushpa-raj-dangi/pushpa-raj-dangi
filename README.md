@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as ** Full Stack Web Developer.**
+- 🔭 I’m currently working as ** Full Stack Web Developer (.net/angular).**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
 - 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
