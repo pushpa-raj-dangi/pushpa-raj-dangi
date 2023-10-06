@@ -23,7 +23,7 @@
 height="200px"  src="https://camo.githubusercontent.com/61d647cf136e8b81720294531eedb797e4a1511fb2ad76796526865642ff76e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"> 
 
 
-
+<a href="https://app.daily.dev/pushpa"><img src="https://api.daily.dev/devcards/1cf1f8620f5842f1b8410cacf255d4e0.png?r=h4p" width="400" alt="Pushpa Raj Dangi's Dev Card"/></a>
 <br />
 🧰 Languages and Tools:
  <hr>
