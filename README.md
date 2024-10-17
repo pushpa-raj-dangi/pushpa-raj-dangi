@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=pushpa-raj-dangi) -->
 
