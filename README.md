@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Pushpa Raj,
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB-g?style=social)](https://youtube.com/@alexhyettdev) [![Mastodon Follow](https://img.shields.io/mastodon/follow/110955440405802574?domain=https%3A%2F%2Fsocial.alexhyett.com)](https://social.alexhyett.com/@alex)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB-g?style=social)](https://youtube.com/@codewithpushpa)(https://social.alexhyett.com/@alex)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexhyett)
 
 
