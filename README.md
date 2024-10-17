@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
 
-[![YouYube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB-g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@alexhyettdev?sub_confirmation=1) [![Youtube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCm6lURZOeBVCZ5hJpqlUB-g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@alexhyettdev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alexhyett)
+[![YouYube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC1k41FltPIePF9yrWR-GKZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@codewithpushpa?sub_confirmation=1) [![Youtube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UC1k41FltPIePF9yrWR-GKZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@codewithpushpa)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Visual Studio 2022 Productivity Hack 🔥 #coding #webdesign #dotnet #visualstudio2022](https://ytcards.demolab.com/?id=r9YAXgj8lbU&title=Visual+Studio+2022+Productivity+Hack+%F0%9F%94%A5+%23coding+%23webdesign+%23dotnet+%23visualstudio2022&lang=en&timestamp=1726755305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visual Studio 2022 Productivity Hack 🔥 #coding #webdesign #dotnet #visualstudio2022")](https://www.youtube.com/watch?v=r9YAXgj8lbU)
