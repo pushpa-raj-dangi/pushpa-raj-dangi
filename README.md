@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Pushpa Raj,
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB-g?style=social)](https://youtube.com/@codewithpushpa)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB?style=social)](https://youtube.com/@codewithpushpa)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpa-raj-dangi)
 
 
