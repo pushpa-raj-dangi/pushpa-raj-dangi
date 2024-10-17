@@ -3,12 +3,18 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpa-raj-dangi)
 
 
-- 🔭 I’m currently working as ** Full Stack Web Developer (.net/angular).**
+- 🔭 I’m currently working as **.NET Developer**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
 - 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
 
 [![YouYube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC1k41FltPIePF9yrWR-GKZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@codewithpushpa?sub_confirmation=1) [![Youtube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UC1k41FltPIePF9yrWR-GKZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@codewithpushpa)
+
+---
+## 🧰 Languages and Tools
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-blue?style=flat&logo=angular&logoColor=white)  ![Blazor](https://img.shields.io/badge/blazor-purple?style=flat&logo=blazor&logoColor=white) ![React](https://img.shields.io/badge/react-black?style=flat&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+---
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Visual Studio 2022 Productivity Hack 🔥 #coding #webdesign #dotnet #visualstudio2022](https://ytcards.demolab.com/?id=r9YAXgj8lbU&title=Visual+Studio+2022+Productivity+Hack+%F0%9F%94%A5+%23coding+%23webdesign+%23dotnet+%23visualstudio2022&lang=en&timestamp=1726755305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visual Studio 2022 Productivity Hack 🔥 #coding #webdesign #dotnet #visualstudio2022")](https://www.youtube.com/watch?v=r9YAXgj8lbU)
