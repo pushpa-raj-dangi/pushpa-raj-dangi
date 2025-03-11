@@ -31,6 +31,8 @@
 If you enjoy my work, consider buying me a coffee:
 <br/>
 ### [Buy Me a Coffee](https://ko-fi.com/codewithpushpa)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/yourname](https://ko-fi.com/codewithpushpa))
+
 </p>
  
 
