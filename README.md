@@ -2,7 +2,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1k41FltPIePF9yrWR-GKZw?style=social)](https://youtube.com/@codewithpushpa)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpa-raj-dangi)
 
-- 🔭 I’m currently working as **.NET Developer**
+- 🔭 I’m currently working as **Fullstack Developer**
 - 📝 I write articles on <a href="https://www.htmlspacecode.com/">https://www.htmlspacecode.com</a>
 - 🌱 I’m currently learning Oracle Database (PL/SQL)
 - 💬 Ask me about anything
