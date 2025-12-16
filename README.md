@@ -31,7 +31,7 @@
 If you enjoy my work, consider buying me a coffee:
 <br/>
 ### [Buy Me a Coffee](https://www.patreon.com/posts/asp-net-web-api-145956711)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codewithpushpa)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.patreon.com/posts/asp-net-web-api-145956711)
 
 </p>
  
